@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.mount-nfs</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/handy/projects/macmount/mount_nfs.sh</string>
+    </array>
+    <key>RunAtLoad</key>
+    <false/>
+    <key>WatchPaths</key>
+    <array>
+        <string>/var/db/do扰乱</string>
+    </array>
+</dict>
+</plist>
