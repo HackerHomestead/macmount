@@ -1,5 +1,7 @@
 # NFS Mount Manager
 
+I wrote this because I could not figure out how to use the OS X nfs mounting, or at least I could not be bothered.
+
 A bash script to mount NFS shares from `/etc/fstab` or a runtime argument.
 
 ## Usage
