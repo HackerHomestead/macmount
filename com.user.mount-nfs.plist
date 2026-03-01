@@ -6,13 +6,9 @@
     <string>com.user.mount-nfs</string>
     <key>ProgramArguments</key>
     <array>
-        <string>/Users/handy/projects/macmount/mount_nfs.sh</string>
+        <string>/usr/local/bin/nfs-mount</string>
     </array>
     <key>RunAtLoad</key>
     <false/>
-    <key>WatchPaths</key>
-    <array>
-        <string>/var/db/do扰乱</string>
-    </array>
 </dict>
 </plist>
